@@ -28,3 +28,9 @@
 
 
    ![completed option](https://github.com/user-attachments/assets/d62b4a16-a417-4c8b-a11f-0b7ed73827c1)
+
+
+* Displaying uncompleted misions :
+
+
+   ![uncompleted optioon](https://github.com/user-attachments/assets/62c6829f-2271-44e3-921f-9ce28b5adc0b)
