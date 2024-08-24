@@ -16,3 +16,9 @@
 
 
    ![options of displayong](https://github.com/user-attachments/assets/1cd4408e-4754-4a91-9183-09037215a4c4)
+
+
+* Check missions :
+
+
+   ![done missions](https://github.com/user-attachments/assets/cf015771-7e20-459c-9993-c786b2a866ec)
