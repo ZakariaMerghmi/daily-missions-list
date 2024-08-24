@@ -22,3 +22,9 @@
 
 
    ![done missions](https://github.com/user-attachments/assets/cf015771-7e20-459c-9993-c786b2a866ec)
+
+
+* Displaying completed missions :
+
+
+   ![completed option](https://github.com/user-attachments/assets/d62b4a16-a417-4c8b-a11f-0b7ed73827c1)
